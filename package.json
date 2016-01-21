@@ -2,7 +2,7 @@
   "name": "loopback-increment-mixin",
   "version": "0.8.0",
   "description": "Loopback Mixin for incrementing any number property in your models",
-  "main": "increment.js",
+  "main": "index.js",
   "scripts": {
     "test": "eslint ."
   },
