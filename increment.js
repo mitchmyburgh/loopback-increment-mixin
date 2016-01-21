@@ -29,8 +29,7 @@ module.exports = function Increment(Model, options) {
     if (ctx.instance) {
       findAndReplace(ctx.instance, next);
     } else if (ctx.data) {
-      // findAndReplace(ctx.data, next);
-      next();
+      findAndReplace(ctx.data, next);
     } else {
       next();
     }
