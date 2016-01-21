@@ -1,6 +1,6 @@
 {
   "name": "loopback-increment-mixin",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Loopback Mixin for incrementing any number property in your models",
   "main": "index.js",
   "scripts": {
